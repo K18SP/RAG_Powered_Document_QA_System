@@ -4,14 +4,6 @@ An AI-powered document question-answering system built with LangChain, Hugging F
 
 ---
 
-## Demo
-
-> Upload a PDF → Process it → Ask questions → Get instant AI-powered answers
-
-![RAG Demo](assets/demo.png)
-
----
-
 ## Features
 
 - 📄 **Multi-PDF Upload** — Upload and query multiple PDFs simultaneously
